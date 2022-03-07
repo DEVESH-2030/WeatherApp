@@ -1,0 +1,10 @@
+
+weather_api_key = 712137a1c96ff1faae22126421a0309b
+
+API=api.openweathermap.org/data/2.5/weather?q={cityname}&appid={APIkey}
+
+
+API URL = https://api.openweathermap.org/data/2.5/weather?q=Mohali&appid=712137a1c96ff1faae22126421a0309b
+
+
+

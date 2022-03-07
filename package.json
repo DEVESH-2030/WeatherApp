@@ -1,0 +1,16 @@
+{
+  "name": "weatherapp-nodejs",
+  "version": "1.0.0",
+  "description": "create a weather app using node jz",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "\"Devesh Kumar\",",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  }
+}
