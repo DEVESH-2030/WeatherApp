@@ -9,8 +9,10 @@
   "author": "\"Devesh Kumar\",",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.13",
     "request": "^2.88.2",
     "requests": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
