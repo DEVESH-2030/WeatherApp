@@ -14,5 +14,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEVESH-2030/WeatherApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DEVESH-2030/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/DEVESH-2030/WeatherApp#readme"
 }
