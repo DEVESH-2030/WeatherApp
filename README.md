@@ -1,3 +1,7 @@
+- Screenshot
+
+![Alt text](image.png)
+
 # WeatherApp
 Weather app in node js
 
