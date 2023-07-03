@@ -1,5 +1,4 @@
 - Screenshot
-
 ![Alt text](image.png)
 
 # WeatherApp
